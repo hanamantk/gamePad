@@ -9,4 +9,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: http://bit.ly/CRA-PWA
 var x=1;
+<<<<<<< HEAD
 var x=2;
+=======
+>>>>>>> ca07bf5... xx

@@ -10,6 +10,9 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // Learn more about service workers: http://bit.ly/CRA-PWA
 var x=1;
 <<<<<<< HEAD
+<<<<<<< HEAD
 var x=2;
+=======
+>>>>>>> ca07bf5... xx
 =======
 >>>>>>> ca07bf5... xx

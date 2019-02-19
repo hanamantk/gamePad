@@ -13,6 +13,7 @@ callPar(action){
       
    return (
       <div className="remote">
+      <h1>my change</h1>
         <div><button onClick={this.callPar.bind(this,'up')}> ^</button></div>
             <div className="midbtn">
                 <span className="lftbtn"><button onClick={this.callPar.bind(this,'left')} >&lt;</button></span>

@@ -1,25 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+### `npm install`
 
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000]
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+##  OR
 
-### `npm test`
+### `npm run watch`
 
-Launches the test runner in the interactive watch mode.<br>
 
-### `npm run build`
 
-/********************************* GAME PAD ***************************************/                                                        
-    this is simple game pad where in you will be having                                                                                       game pad and white board with multiple cells                                                                                           
-    where you can move icon up ,down , left ,right                                                                                         
-    there is limited boundary defined for board beyond you cannot cross
     
